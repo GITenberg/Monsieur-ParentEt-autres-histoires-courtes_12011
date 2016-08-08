@@ -1,0 +1,35 @@
+_repo: Monsieur-ParentEt-autres-histoires-courtes_12011
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12011'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, French'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Monsieur Parent -- La bête à Mait'Belhomme -- A vendre -- L'inconnue
+  -- La confidence -- Le baptême -- Imprudence -- Un fou -- Tribunaux rustiques --
+  L'épingle -- Les bécasses -- En wagon -- Ça ira -- Découverte -- Solitude -- Au
+  bord du lit -- Petit soldat.
+title: 'Monsieur Parent
+
+  Et autres histoires courtes'
+url: http://www.gutenberg.org/ebooks/12011
